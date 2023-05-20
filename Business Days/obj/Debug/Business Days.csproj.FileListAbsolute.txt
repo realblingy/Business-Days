@@ -1,0 +1,7 @@
+C:\Users\james.dang\Desktop\Business Days\Business Days\obj\Debug\Business Days.csproj.AssemblyReference.cache
+C:\Users\james.dang\Desktop\Business Days\Business Days\obj\Debug\Business Days.csproj.CoreCompileInputs.cache
+C:\Users\james.dang\Desktop\Business Days\Business Days\bin\Debug\Business Days.exe.config
+C:\Users\james.dang\Desktop\Business Days\Business Days\bin\Debug\Business Days.exe
+C:\Users\james.dang\Desktop\Business Days\Business Days\bin\Debug\Business Days.pdb
+C:\Users\james.dang\Desktop\Business Days\Business Days\obj\Debug\Business Days.exe
+C:\Users\james.dang\Desktop\Business Days\Business Days\obj\Debug\Business Days.pdb
